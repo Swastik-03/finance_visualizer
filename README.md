@@ -47,7 +47,6 @@ npm install
    - Add the following variables:
      ```
      MONGODB_URI=<your-mongodb-connection-string>
-     NEXT_PUBLIC_API_URL=<your-api-url>
      ```
 5. Run the development server:
    ```bash
